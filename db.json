@@ -1,11 +1,11 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "category": "education",
+  "title": "Hönö kuriin",
+  "description": "Hönön kovaa koulutusta hyvällä tai pahalla.",
+  "location": "Kotona",
+  "pets": 1,
+  "extras": {
+    "catering": true,
+    "music": true
   }
 }
